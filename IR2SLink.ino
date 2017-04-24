@@ -7,6 +7,8 @@
  * 
  * https://github.com/Ircama/IR2SLink.git
  *
+ * This software needs the following library: https://github.com/Ircama/Sony_SLink.git
+ *
  * (C) Ircama, 2017, CC-BY-SA 4.0
  * https://creativecommons.org/licenses/by-sa/4.0/
  * 
