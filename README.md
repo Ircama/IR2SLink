@@ -7,6 +7,8 @@ Place IR2SLink.ino in the "IR2SLink" folder.
 
 This software needs the following library: https://github.com/Ircama/Sony_SLink.git
 
+Check https://github.com/Ircama/AtTinyTestIR to monitor infrared sequences through an ATTINY85.
+
 Check also this note: https://gist.github.com/Ircama/22707e938e9c8f169d9fe187797a2a2c
 
 ## Description
