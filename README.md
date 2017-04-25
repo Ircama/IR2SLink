@@ -1,5 +1,5 @@
 # IR2SLink
-Infrared input driver for the Sony S-Link Control-A1 interface, implementing a general purpose infrared interface to remotely drive Sony audio consumer devices connected through the Sony S-Link bus-system.
+Arduino infrared input driver for the Sony S-Link Control-A1 interface, implementing a general purpose infrared interface to remotely drive Sony audio consumer devices connected through the Sony S-Link bus-system.
 
 ## Installation
 Create a new folder called "IR2SLink" in your Arduino sketchbook folder.
