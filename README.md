@@ -5,7 +5,10 @@ Infrared input driver for the Sony S-Link Control-A1 interface, implementing a g
 Create a new folder called "IR2SLink" in your Arduino sketchbook folder.
 Place IR2SLink.ino in the "IR2SLink" folder.
 
-This software needs the following library: https://github.com/Ircama/Sony_SLink.git
+This software needs the following libraries:
+
+- https://github.com/Ircama/Sony_SLink.git
+- https://github.com/z3t0/Arduino-IRremote
 
 Check https://github.com/Ircama/AtTinyTestIR to monitor infrared sequences through an ATTINY85.
 
