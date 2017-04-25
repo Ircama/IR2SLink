@@ -1,4 +1,6 @@
 # IR2SLink
+**Arduino sketch allowing translation of IR sequeces to Sony S-Link Control-A1 commands for Sony audio devices**
+
 Arduino infrared input driver for the Sony S-Link Control-A1 interface, implementing a general purpose infrared interface to remotely drive Sony audio consumer devices connected through the Sony S-Link bus-system.
 
 ## Installation
@@ -7,7 +9,7 @@ Place IR2SLink.ino in the "IR2SLink" folder.
 
 This software needs the following libraries:
 
-- https://github.com/Ircama/Sony_SLink.git
+- https://github.com/Ircama/Sony_SLink
 - https://github.com/z3t0/Arduino-IRremote
 
 Check https://github.com/Ircama/AtTinyTestIR to monitor infrared sequences through an ATTINY85.
